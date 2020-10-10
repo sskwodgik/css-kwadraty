@@ -1,0 +1,10 @@
+body{
+    background-color: #808080;
+    color: #FFF;
+}
+div{
+    background-color: #fea500;
+    width: 150px;
+    height: 150px;
+    margin-bottom: 20px;
+}
